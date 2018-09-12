@@ -1,0 +1,15 @@
+/* Put your own CSS here */
+#image {background: url("../imgs/1.jpg") center;}
+
+th{padding: 10px;}
+tr{border-bottom: 2px solid black;}
+
+/* Media queries */
+
+
+
+@media only screen and (max-width: 1030px)
+{
+    .wrapper-fixedwidth{width: 100%;}
+}
+

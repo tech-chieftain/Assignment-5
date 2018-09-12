@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="css/colors.css">
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="css/main.css">
+
+
+
+    <title>Document</title>
+</head>
+
+<body>
+    <div class="height2 clearfix text-center white margin-bottom-medium">
+        <div class="box-3 clearfix table first bg-teal">
+            <form class="clearfix table-cell table-cell-middle " action="">
+                <div class="height-auto">
+                    <div class="small-label first">
+                        <label class="floatright" for="fname">First name:</label>
+                    </div>
+                    <div class="large-input">
+                        <input type="name" name="fname" id="fname">
+                    </div>
+                </div>
+                <div class="height-auto">
+                    <div class="small-label first">
+                        <label class="floatright" for="lname">Last name:</label>
+                    </div>
+                    <div class="large-input">
+                        <input type="name" name="lname" id="lname">
+                    </div>
+                </div>
+                <div class="height-auto">
+                    <input type="radio" name="gender" id="gender" class="float-none margin-top-medium height-auto width-auto"
+                        value="Male">Male<br>
+                    <input type="radio" name="gender" id="gender" class="float-none margin-top-medium height-auto width-auto"
+                        value="Female">Female<br>
+                </div>
+                <div class="height-auto">
+                    <div class="small-label first">
+                        <label class="" for="console">Console:</label>
+                    </div>
+                    <select name="console" id="console">
+                        <option value="ps4">PS4</option>
+                        <option value="xbox">Xbox1</option>
+                        <option value="nswitch">Nintendo Switch</option>
+                        <option value="ouya">Ouya -DONE- </option>
+                    </select>
+                </div>
+
+                <div class="height-auto ">
+                    <input type="submit" id="submit" class="button floatright bg-green size-4 white" value="Submit">
+                </div>
+            </form>
+        </div>
+    </div>
+    <!-- RESULT -->
+    <div id="result" style="display:none;" class="height-200 width-300">
+        <table class="height-auto width-auto">
+            <thead>
+                <tr>
+                    <th>
+                        First Name
+                    </th>
+                    <th>
+                        Last Name
+                    </th>
+                    <th>
+                        Gender
+                    </th>
+                    <th>
+                        Console
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td id="fname-data"></td>
+                    <td id="lname-data"></td>
+                    <td id="gender-data"></td>
+                    <td id="console-data"></td>
+                </tr>
+
+
+            </tbody>
+        </table>
+
+
+
+    </div>
+    <script src="index.js"></script>
+
+</body>
+
+</html>

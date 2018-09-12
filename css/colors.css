@@ -1,0 +1,68 @@
+/* Gotta work more on colors!!!!! */
+
+
+/* COLORS */
+
+.red {color: #f44336!important;}
+.lightred {color: rgb(201, 23, 23)!important;}
+.darkred {color: rgb(134, 15, 15)!important;}
+.purple {color: #9c27b0!important;}
+.deeppurple {color: #673ab7!important;}
+.indigo {color: #3f51b5!important;}
+.darkblue {color: #131c50!important;}
+.blue {color: #2196F3!important;}
+.lightblue {color: #87CEEB!important;}
+.cyan {color: #00bcd4!important;}
+.aqua {color: #00ffff!important;}
+.teal {color: #009688!important;}
+.green-blue {color: #145!important;}
+.green {color: #4CAF50!important;}
+.lightgreen {color: #8bc34a!important;}
+.lime {color: #cddc39!important;}
+.sand {color: #fdf5e6!important;}
+.khaki {color: #f0e68c!important;}
+.yellow {color: #ffeb3b!important;}
+.amber {color: #ffc107!important;}
+.orange {color: #ff9800!important;}
+.deeporange {color: #ff5722!important;}
+.bluegray {color: #607d8b!important;}
+.brown {color: #795548!important;}
+.mildgray {color: #f1f1f1!important;}
+.black {color: #000!important;}
+.darkgray {color: #222!important;}
+.gray {color: #555!important;}
+.lightgray {color: #777!important;}
+.white {color: white!important;}
+
+/* Background Colors */
+
+.bg-red {background-color: #f44336!important;}
+.bg-lightred {background-color: rgb(201, 23, 23)!important;}
+.bg-darkred {background-color: rgb(134, 15, 15)!important;}
+.bg-purple {background-color: #9c27b0!important;}
+.bg-deeppurple {background-color: #673ab7!important;}
+.bg-indigo {background-color: #3f51b5!important;}
+.bg-darkblue {background-color: #131c50!important;}
+.bg-blue {background-color: #2196F3!important;}
+.bg-lightblue {background-color: #87CEEB!important;}
+.bg-cyan {background-color: #00bcd4!important;}
+.bg-aqua {background-color: #00ffff!important;}
+.bg-teal {background-color: #009688!important;}
+.bg-green-blue {background-color: #145!important;}
+.bg-green {background-color: #4CAF50!important;}
+.bg-lightgreen {background-color: #8bc34a!important;}
+.bg-lime {background-color: #cddc39!important;}
+.bg-sand {background-color: #fdf5e6!important;}
+.bg-khaki {background-color: #f0e68c!important;}
+.bg-yellow {background-color: #ffeb3b!important;}
+.bg-amber {background-color: #ffc107!important;}
+.bg-orange {background-color: #ff9800!important;}
+.bg.deeporange {background-color: #ff5722!important;}
+.bg-bluegray {background-color: #607d8b!important;}
+.bg-brown {background-color: #795548!important;}
+.bg-mildgray {background-color: #f1f1f1!important;}
+.bg-black {background-color: #000!important;}
+.bg-darkgray {background-color: #222!important;}
+.bg-gray {background-color: #555!important;}
+.bg-lightgray {background-color: #777!important;}
+.bg-white {background-color: white!important;}
